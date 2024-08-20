@@ -1,0 +1,15 @@
+.city-block {
+    display: none;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.city-block img {
+    width: 100px;
+    height: auto;
+}
+
+.city-block .time {
+    font-size: 24px;
+    font-weight: bold;
+}
